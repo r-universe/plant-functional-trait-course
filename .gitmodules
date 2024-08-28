@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fluxible"]
+	path = fluxible
+	url = https://github.com/plant-functional-trait-course/fluxible
 [submodule "traitstrap"]
 	path = traitstrap
 	url = https://github.com/plant-functional-trait-course/traitstrap
